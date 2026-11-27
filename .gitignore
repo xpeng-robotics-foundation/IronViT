@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+feature_cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+.fuyaoignore
+local_git_sha.txt
+upstream_git_info.txt
+*.patch

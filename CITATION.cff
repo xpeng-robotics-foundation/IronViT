@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use IronViT, please cite the paper below."
+title: "IronViT"
+authors:
+  - name: "XPENG Robotics"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/xpeng-robotics-foundation/IronViT"
+url: "https://xpeng-robotics.github.io/iron-fm/?model=vit"
+preferred-citation:
+  type: article
+  title: "IronViT: Toward Efficient Generalist Visual Representation Learning"
+  authors:
+    - family-names: "Huang"
+      given-names: "Jiaxi"
+    - family-names: "Hu"
+      given-names: "Yueqi"
+    - family-names: "Zhu"
+      given-names: "Xin"
+    - family-names: "Zhang"
+      given-names: "Xiaopeng"
+    - family-names: "Qiao"
+      given-names: "Huiting"
+    - family-names: "Zhang"
+      given-names: "Yanglin"
+    - family-names: "Ji"
+      given-names: "Zefeng"
+    - family-names: "Li"
+      given-names: "Rongxue"
+    - family-names: "Xu"
+      given-names: "Yifei"
+    - family-names: "Yu"
+      given-names: "Huiying"
+    - family-names: "Liu"
+      given-names: "Wei"
+    - family-names: "Zheng"
+      given-names: "Jiayin"
+    - family-names: "Xu"
+      given-names: "Yinggan"
+    - family-names: "Chen"
+      given-names: "Peipeng"
+    - family-names: "Zhang"
+      given-names: "Yin"
+    - family-names: "Yao"
+      given-names: "Jian"
+  year: 2026
+  journal: "arXiv preprint arXiv:2609.29252"
+  url: "https://arxiv.org/abs/2609.29252"
