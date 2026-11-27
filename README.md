@@ -2,9 +2,9 @@
 
 **[XPENG Robotics](https://xpeng-robotics.github.io/iron-fm/?model=vit)**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2609.29252-b31b1b.svg)](https://arxiv.org/abs/2609.29252)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/IRONVIT)
+[![arXiv](https://badgen.net/badge/arXiv/2609.29252/B31B1B)](https://arxiv.org/abs/2609.29252)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://xpeng-robotics.github.io/iron-fm/?model=vit)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/IRONVIT)
 
 Jiaxi Huang, Yueqi Hu, Xin Zhu, Xiaopeng Zhang, Huiting Qiao, Yanglin Zhang, Zefeng Ji, Rongxue Li, Yifei Xu, Huiying Yu, Wei Liu, Jiayin Zheng, Yinggan Xu, Peipeng Chen, Yin Zhang, Jian Yao
 
